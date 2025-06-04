@@ -1,30 +1,43 @@
-⚔️ GearCraft — Modular In-Game Item System dApp
+# GearCraft – Modular In-Game Item System with Xsolla ZK
 
-**GearCraft** is a decentralized application (dApp) that empowers players to **craft, upgrade, and trade modular in-game items** (like swords with customizable blades and hilts). It leverages:
+GearCraft is a decentralized application (dApp) built on the Xsolla ZK stack that allows players to **craft, upgrade, and trade modular in-game items**. These items are represented using:
 
-**ERC721** for unique base items
-**ERC1155** for stackable components
-**EIP-4626** for yield-generating staking via the Forge
+- 🎮 **ERC721** for unique gear
+- 🧱 **ERC1155** for stackable components (blades, hilts, cores)
+- 🧠 **EIP4626** for yield-generating item staking mechanics
 
----
-
-## 🔧 Tech Stack
-
-**Frontend**: React + Vite + TailwindCSS
-**Smart Contracts**: Solidity using Hardhat
-**Blockchain**: Compatible with Base, zkSync, and other EVM chains
-**Wallet Integration**: Ethers.js + Radix UI + MetaMask
-**Gasless UX**: Optional integration with Xsolla ZK or Paymasters
+### Why GearCraft?
+I am working on an immersive and rewarding Web3 gaming experience where crafting decisions are meaningful, gear is composable, and every weapon tells a story.
 
 ---
 
-## 🧪 Commands
+## 🔧 Features
 
-To get started with the backend (smart contracts):
+- ⚒️ Modular item crafting
+- 🧬 Component fusion and upgrades
+- ♻️ Trade and yield with EIP4626 staking
+- 🌐 Wallet integration (e.g., MetaMask)
+- 🔐 Built with the Xsolla ZK app starter kit
+
+---
+
+## 📦 Tech Stack
+
+- **Next.js (App Router)**
+- **Tamagu UI** (via Tamagui)
+- **TypeScript**
+- **TailwindCSS**
+- **Hardhat** (Smart contract development)
+- **ZK Stack** (Xsolla’s privacy-preserving infra)
+- **Figma Tokens & Icons** (via raw-tokens and raw-icons)
+
+---
+
+## 🚀 Getting Started
+
+Clone the project and install dependencies:
 
 ```bash
-npx hardhat help                # View all available Hardhat tasks
-npx hardhat test                # Run contract tests
-REPORT_GAS=true npx hardhat test  # Run tests with gas reporting
-npx hardhat node                # Start a local Hardhat node
-npx hardhat run scripts/deploy.ts --network localhost  # Deploy locally
+git clone https://github.com/CamilleNatasha/gear_craft.git
+cd gearcraft
+npm install
