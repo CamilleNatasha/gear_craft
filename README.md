@@ -1,13 +1,43 @@
-# Sample Hardhat Project
+# GearCraft – Modular In-Game Item System with Xsolla ZK
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+GearCraft is a decentralized application (dApp) built on the Xsolla ZK stack that allows players to **craft, upgrade, and trade modular in-game items**. These items are represented using:
 
-Try running some of the following tasks:
+- 🎮 **ERC721** for unique gear
+- 🧱 **ERC1155** for stackable components (blades, hilts, cores)
+- 🧠 **EIP4626** for yield-generating item staking mechanics
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.ts
-```
+### Why GearCraft?
+It has an immersive and rewarding Web3 gaming experience where crafting decisions are meaningful, gear is composable, and every weapon tells a story.
+
+---
+
+## 🔧 Features
+
+- ⚒️ Modular item crafting
+- 🧬 Component fusion and upgrades
+- ♻️ Trade and yield with EIP4626 staking
+- 🌐 Wallet integration (e.g., MetaMask)
+- 🔐 Built with the Xsolla ZK app starter kit
+
+---
+
+## 📦 Tech Stack
+
+- **Next.js (App Router)**
+- **Tamagu UI** (via Tamagui)
+- **TypeScript**
+- **TailwindCSS**
+- **Hardhat** (Smart contract development)
+- **ZK Stack** (Xsolla’s privacy-preserving infra)
+- **Figma Tokens & Icons** (via raw-tokens and raw-icons)
+
+---
+
+## 🚀 Getting Started
+
+Clone the project and install dependencies:
+
+```bash
+git clone https://github.com/CamilleNatasha/gear_craft.git
+cd gearcraft
+npm install
