@@ -36,7 +36,13 @@ It has an immersive and rewarding Web3 gaming experience where crafting decision
 🧠 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## 🚀 Getting Started
+## 🚀 Getting Started & 🧠 Contributing
+
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+📄 License
+MIT
 
 Clone the project and install dependencies:
 
@@ -44,11 +50,3 @@ Clone the project and install dependencies:
 git clone https://github.com/CamilleNatasha/gear_craft.git
 cd gearcraft
 npm install
-
-
-## 🧠 Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-📄 License
-MIT
