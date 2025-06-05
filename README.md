@@ -7,7 +7,7 @@ GearCraft is a decentralized application (dApp) built on the Xsolla ZK stack tha
 - 🧠 **EIP4626** for yield-generating item staking mechanics
 
 ### Why GearCraft?
-I am working on an immersive and rewarding Web3 gaming experience where crafting decisions are meaningful, gear is composable, and every weapon tells a story.
+It has an immersive and rewarding Web3 gaming experience where crafting decisions are meaningful, gear is composable, and every weapon tells a story.
 
 ---
 
