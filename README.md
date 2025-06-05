@@ -41,3 +41,7 @@ Clone the project and install dependencies:
 git clone https://github.com/CamilleNatasha/gear_craft.git
 cd gearcraft
 npm install
+
+
+## 🧠 Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
