@@ -33,6 +33,9 @@ It has an immersive and rewarding Web3 gaming experience where crafting decision
 
 ---
 
+🧠 Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
 ## 🚀 Getting Started
 
 Clone the project and install dependencies:
